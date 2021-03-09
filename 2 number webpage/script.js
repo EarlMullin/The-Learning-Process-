@@ -18,7 +18,7 @@ function numberGame1() {
 
 };
 
-
+/*Practice*/
 
 
 // function numberGame() {
